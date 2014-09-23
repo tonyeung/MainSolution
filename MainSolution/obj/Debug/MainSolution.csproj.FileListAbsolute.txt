@@ -1,0 +1,9 @@
+C:\Users\ton\AppData\Local\Temporary Projects\MainSolution\bin\Debug\MainSolution.exe.config
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\bin\Debug\MainSolution.exe.config
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\bin\Debug\MainSolution.exe
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\bin\Debug\MainSolution.pdb
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\bin\Debug\LibSolution.dll
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\bin\Debug\LibSolution.pdb
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\obj\Debug\MainSolution.csprojResolveAssemblyReference.cache
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\obj\Debug\MainSolution.exe
+C:\Users\ton\Documents\Visual Studio 2013\Projects\MainSolution\MainSolution\obj\Debug\MainSolution.pdb
